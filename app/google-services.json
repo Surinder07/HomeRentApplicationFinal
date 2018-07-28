@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "989884663955",
+    "firebase_url": "https://homerentals-5198a.firebaseio.com",
+    "project_id": "homerentals-5198a",
+    "storage_bucket": "homerentals-5198a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989884663955:android:ffb3e5fd3f068758",
+        "android_client_info": {
+          "package_name": "com.example.surinder.homerentapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989884663955-r05ofok78hl5c6vc5l87sh7r1sq2dhcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6jxp4D3LeYi7VYO09CS1Lpw6Pg7LOqFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
